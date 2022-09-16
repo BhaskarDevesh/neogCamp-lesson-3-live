@@ -135,6 +135,11 @@ hr {
     color: white;
 }
 
+.footer .footer-header{
+    font-weight: bold;
+    font-size: large;
+}
+
 /**trobleshoot to align links of footer in center**/
 .footer ul{
     padding-inline-start: 0px;
